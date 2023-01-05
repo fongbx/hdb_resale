@@ -20,4 +20,4 @@ This project recognises that HDB prices are affected by many different factors a
 
 ## References and Acknowledgements
 [1] [Geocoding Singapore Coordinates: OneMap API](https://towardsdatascience.com/geocoding-singapore-coordinates-onemap-api-3e1542bf26f7)
-[2] [Z Test Statistics Formula & Python Implementation](https://towardsdatascience.com/z-test-statistics-formula-python-implementation-3755d67ba0e7)
+<br>[2] [Z Test Statistics Formula & Python Implementation](https://towardsdatascience.com/z-test-statistics-formula-python-implementation-3755d67ba0e7)
